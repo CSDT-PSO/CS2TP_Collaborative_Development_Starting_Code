@@ -49,7 +49,7 @@ You should already have the following installed and configured (or in the case o
 > Only one member of your team should follow this step!
 
 1. *One member* of your team should create a new repository from the template for your team to work on
-2. Go to [https://github.com/CSDT-PSO/CS2TP_Collaborative_Development_Starting_Code.git](https://github.com/CSDT-PSO/CS2TP_Collaborative_Development_Starting_Code.git)
+2. Find the starting repository [https://github.com/CSDT-PSO/CS2TP_Collaborative_Development_Starting_Code.git](https://github.com/CSDT-PSO/CS2TP_Collaborative_Development_Starting_Code.git)
 3. Click the green `Use this template` button
 4. Select 'Create a new repository'
 5. Name your repository (e.g., Team99_WorkshopTask)
